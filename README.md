@@ -1,7 +1,9 @@
 **Why Here?**
+
 Need to learn some basic GIT commands? You’ve come to the right place. Read on to discover our handy cheat sheet that you can use for daily reference.
 
 **Why Git?**
+
 According to the latest Stack Overflow developer survey, more than 70 percent of developers use Git, making it the most-used VCS in the world. Git is commonly used for both open source and commercial software development, with significant benefits for individuals, teams and businesses.
 
 Git lets developers see the entire timeline of their changes, decisions, and progression of any project in one place. From the moment they access the history of a project, the developer has all the context they need to understand it and start contributing.
