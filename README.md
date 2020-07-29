@@ -10,7 +10,7 @@ Developers work in every time zone. With a DVCS like Git, collaboration can happ
 
 Businesses using Git can break down communication barriers between teams and keep them focused on doing their best work. Plus, Git makes it possible to align experts across a business to collaborate on major projects.
 
-If you wanna learn more aboutGit/Github visit: 
+If you wanna learn more about Git/Github visit: 
 https://www.geeksforgeeks.org/git-lets-get-into-it/ or
 https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 
