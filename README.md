@@ -1,6 +1,6 @@
 **Why Here?**
 
-Need to learn some basic GIT commands? You’ve come to the right place. Read on to discover our handy cheat sheet that you can use for daily reference.
+Need to learn some basic GIT commands? You’ve come to the right place. Read on to discover my handy cheat sheet that you can use for daily reference.
 
 **Why Git?**
 
