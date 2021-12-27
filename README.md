@@ -8,7 +8,7 @@ Git a Version Control Software (VCS) which allows you to take a snapshot of a pr
 Git keeps track of who makes changes to a project, even when only one person i sworking on the project. It requires username and email.
 
 Example:
-![git config](../assets/Screenshots/ss1png)
+![git config](/../assets/Screenshots/ss1png)
 
 ## Initializing a Repository
 To Initializing a Repository you need to first select the directory and then type `git init` in git console.
