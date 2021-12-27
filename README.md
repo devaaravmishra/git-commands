@@ -5,7 +5,7 @@ Git a Version Control Software (VCS) which allows you to take a snapshot of a pr
 
 
 ## Configuring GIt
-Git keeps track of who makes changes to a project, even when only one person i sworking on the project. It requires username and email.
+Git keeps track of who makes changes to a project, even when only one person is working on the project. It requires username and email.
 
 Example:
 
