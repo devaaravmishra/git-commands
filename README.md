@@ -1,5 +1,5 @@
 
-# Git-CheatSheet
+# Git-Commands
 
 Git a Version Control Software (VCS) which allows you to take a snapshot of a project whenever it's in a working state.
 
